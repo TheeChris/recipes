@@ -57,6 +57,8 @@ before storing them in an airtight container or bag.
 ## Notes
 Adapted from the man, Alton Brown.
 
-**Nutrition Per Serving**
-| Calories: 170 | Fat: 6g | Saturated fat: 1.8g |
-| Carbohydrates: 25g | Fiber: 1g | Sugar: 3.4g | Protein: 3.4g |
+| Nutrition Per Serving |           |                     |
+|-----------------------|-----------|---------------------|
+| Calories: 170         | Fat: 6g   | Saturated fat: 1.8g |
+| Carbohydrates: 25g    | Fiber: 1g | Sugar: 3.4g         | 
+| Protein: 3.4g         |           |                     |
